@@ -1,0 +1,21 @@
+{
+    "labs": [{
+        "1-recsys-intro.ipynb": "推荐系统概述"
+    }, {
+        "2-recsys-experimental-method.ipynb": "推荐系统实验方法"
+    }, {
+        "3-recsys-evaluation-indices.ipynb": "推荐系统评测指标"
+    }, {
+        "4-use-user-behavior-data.ipynb": "利用用户行为数据"
+    }, {
+        "5-user-based-collaborative-filtering.ipynb": "基于用户的协同过滤算法"
+    }, {
+        "6-item-based-collaborative-filtering.ipynb": "基于物品的协同过滤算法"
+    }, {
+        "7-recsys-lfm.ipynb": "隐语义模型"
+    }, {
+        "8-cold-start.ipynb": "冷启动问题"
+    }, {
+        "9-user-tag-data.ipynb": "利用用户标签数据"
+    }]
+}
